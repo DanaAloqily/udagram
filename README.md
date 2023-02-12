@@ -16,8 +16,6 @@ its a project for hosting a fullstack app through aws cloud services
 3. Data Storage: Database
    through aws RDS in postgreSQL engine
 
-
-
    ##
-   
-Hosted link: http://elasticbeanstalk-us-east-1-721282908717.s3-website-us-east-1.amazonaws.com
+
+Hosted link: http://my-721282908717-bucket.s3-website-us-east-1.amazonaws.com
