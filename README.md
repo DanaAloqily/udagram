@@ -19,3 +19,4 @@ its a project for hosting a fullstack app through aws cloud services
    ##
 
 Hosted link: http://my-721282908717-bucket.s3-website-us-east-1.amazonaws.com
+Env-link: Udagramapi-env.eba-8hdfmdjk.us-east-1.elasticbeanstalk.com 
