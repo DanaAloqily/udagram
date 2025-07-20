@@ -6,7 +6,7 @@ This project involved deploying a full-stack JavaScript web application to a liv
 ## Hosting Structure
 
 1. (Backend): API
-    API was deployed through aws elasticbeans
+    API was deployed through AWS elasticbeans
 
 2. (frontend): Angulat UI
     host and serve the frontend as a static website through S3 Bucket
