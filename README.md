@@ -2,19 +2,17 @@
 
 # Overview
 
-This a project requierment of udacity fullstack javascript nanodegree
-its a project for hosting a fullstack app through aws cloud services
-
-## Hosting Struture
+This project involved deploying a full-stack JavaScript web application to a live production environment using AWS cloud services. The objective was to gain hands-on experience in end-to-end deployment and infrastructure configuration on the cloud.
+## Hosting Structure
 
 1. (Backend): API
-   through aws elasticbeans the api was deployed
+    API was deployed through aws elasticbeans
 
 2. (frontend): Angulat UI
-   through aws s3 bucket
+    host and serve the frontend as a static website through S3 Bucket
 
 3. Data Storage: Database
-   through aws RDS in postgreSQL engine
+   Connected Backend to AWS RDS in postgreSQL engine
 
    ##
 
